@@ -1,4 +1,11 @@
 """
+    This module contains code from
+    Think Python by Allen B. Downey
+    http://thinkpython.com
+
+    Copyright 2012 Allen B. Downey
+    License: GNU GPLv3 http://www.gnu.org/licenses/gpl.html
+    
     This is to test out a few basic functions in Python from Chapter 3 of Think Python 2
 
     Note: Although this is saved in a .py file, code was run on an interpreter to get results
