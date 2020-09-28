@@ -1,9 +1,10 @@
 """
     This module contains code from
-    Think Python by Allen B. Downey
-    http://thinkpython.com
+    Think Python, 2nd Edition
+    by Allen Downey
+    http://thinkpython2.com
 
-    Copyright 2012 Allen B. Downey
+    Copyright 2015 Allen B. Downey
     License: GNU GPLv3 http://www.gnu.org/licenses/gpl.html
     
     This is to test out a few basic functions in Python from Chapter 3 of Think Python 2
